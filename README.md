@@ -1,2 +1,2 @@
 # PortScanner
-Script ofr port scanning
+Script for port scanning
